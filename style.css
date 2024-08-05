@@ -89,6 +89,7 @@ html {
     size: 25px;
     font-size: 5rem;
     text-align: justify;
+    cursor: pointer;
 }
 
 .header {
